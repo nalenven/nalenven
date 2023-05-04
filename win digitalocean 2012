@@ -1,0 +1,38 @@
+https://getlink123.com/direct/1Yrd4ickPTco
+
+Or
+
+https://dl.dropbox.com/s/uf3ttsxuh6i8kkv/2012.R2.DC.x64.EVAL.US-English.gz?dl=0
+-------------------------------------
+https://fr1.teddyvps.com/iso/en_windows2012r2.gz
+
+win 10 
+
+https://www.dropbox.com/s/vjiftpanlrodowf/Windows10_THTH%402020.gz?dl=0
+
+WINDOWS 7
+
+https://dl.dropbox.com/s/b2gi01gr0cnx6g4/Windows7sp1-active.gz?dl=0
+
+Windows 10 
+
+https://dl.dropbox.com/s/5q0cfgos3x30824/windows10.gz?dl=0
+----------------------------------------------------------
+
+WINDOWS 10 LTSC
+
+wget -O- --no-check-certificate http://drive.muavps.net/windows/windows10.gz | gunzip | dd of=/dev/vda
+
+user: datnguyentv
+pass: Datnguyentv.com
+
+Windows 7 Ultimate:
+
+wget -O- --no-check-certificate http://drive.muavps.net/windows/Windows7sp1-active.gz | gunzip | dd of=/dev/vda
+
+user: datnguyentv
+pass: Datnguyentv.com
+
+
+user: administrator
+pass: Datnguyentv.com
