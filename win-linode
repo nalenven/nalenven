@@ -1,0 +1,27 @@
+Username: Administrator
+
+Password: P@ssword64
+
+hoặc
+
+Password147
+
+Linode 
+https://www.dropbox.com/s/tj6oteabe8kt35z/en-us_windows2012r2.gz?dl=0
+
+wget -O- --no-check-certificate https://www.dropbox.com/s/tj6oteabe8kt35z/en-us_windows2012r2.gz?dl=0 | gunzip | dd of=/dev/sda
+
+wget -O- --no-check-certificate https://dl.dropbox.com/s/tj6oteabe8kt35z/en-us_windows2012r2.gz?dl=0
+ | gunzip | dd of=/dev/sda
+
+
+-------------------------------------------------------------------------------------------------
+
+User: administrator
+
+Pass: Namvps.com
+
+Windows 7 ThinPC : wget -O- --no-check-certificate https://dl.dropbox.com/s/mmbzaxvuj5p1hka/Windows7_ThinPC_NamVPS.gz?dl=0 | gunzip | dd of=/dev/sda
+Windows 7 Pro : wget -O- --no-check-certificate https://dl.dropbox.com/s/e7y2lgr4dxgtqk2/Windows7_Pro_NamVPS.gz?dl=0 | gunzip | dd of=/dev/sda
+Windows Server 2012R2 : wget -O- --no-check-certificate https://dl.dropbox.com/s/51n7qkht5fi6vhr/NamVPS_Window2012R2.gz?dl=0 | gunzip | dd of=/dev/sda
+Windows Server 2019 : wget -O- --no-check-certificate https://dl.dropbox.com/s/qto5v7w2yov2nim/NamVPS_WindowServer2019.gz?dl=0 | gunzip | dd of=/dev/sda
