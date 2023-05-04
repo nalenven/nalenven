@@ -1,0 +1,192 @@
+[ADINSERTER ROTATE]
+
+Header
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139224883-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139224883-1');
+</script>
+
+
+<style type="text/css">
+#adss-iframe-fixed {
+	bottom: 0;
+	height: auto;
+	left: 0;
+	position: fixed;
+	width: auto;
+	z-index: 99999;
+}
+#adss-iframe-fixed .adss-iframe-content img {
+	position: relative; z-index: 1;
+}
+#adss-iframe {
+	display: inline-block;
+	position: relative;
+	margin-top: 22px;
+}
+#adss-iframe .ads-iframe-content img {
+	max-width: 100%;
+	height: auto;
+	position: relative; z-index: 1;
+}
+.adss-iframe-content {
+width: 600px;
+	height: 73px;
+	bottom: 0px;
+	left: 0px;
+}
+.adss-iframe-content > iframe {
+    opacity: 0;
+    border: 0px none transparent;
+    position: absolute; z-index: 2;
+    left: 0; top: 0;
+	width: 100%;
+	height: 100%;
+    filter: alpha(opacity=0);
+}
+</style>
+
+
+
+<div id="adss-iframe">
+	<div class="adss-iframe-content" style="background-image: url(https://bigtruyen.co/ga-duoi.jpg);">
+		<iframe src="https://bigtruyen.co/goctrai.html" scrolling="no" frameborder="0"></iframe>
+	</div>
+</div>
+
+<script type="text/javascript">
+function hide_ads_iframe(hide) {
+	var hide = hide;
+    var content = hide.nextElementSibling; 
+    if (content.style.display == "none")
+
+    {content.style.display = "block"; hide.innerHTML = '[x]'; }
+
+        else { content.style.display = "none"; hide.innerHTML = 'Ads...';
+
+    }
+	
+	return false;
+}
+</script>
+<style type="text/css">
+#ads-iframe-fixed {
+	bottom: 0;
+	height: auto;
+	left: 0;
+	position: fixed;
+	width: auto;
+	z-index: 99999;
+}
+#ads-iframe-fixed .ads-iframe-content img {
+    max-height: 250px;
+    max-width: 300px;
+	position: relative; z-index: 1;
+}
+#ads-iframe {
+	display: inline-block;
+	position: relative;
+	margin-top: 22px;
+}
+#ads-iframe .ads-iframe-content img {
+	max-width: 100%;
+	height: auto;
+	position: relative; z-index: 1;
+}
+.ads-iframe-content {
+	width: 300px;
+	height: 250px;
+	bottom: 0px;
+	left: 0px;
+}
+.ads-iframe-content > iframe {
+    opacity: 0;
+    border: 0px none transparent;
+    position: absolute; z-index: 2;
+    left: 0; top: 0;
+	width: 100%;
+	height: 100%;
+    filter: alpha(opacity=0);
+}
+.hide-ads-iframe {
+	background: red none repeat scroll 0 0;
+	bottom: 100%;
+	color: #fff;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: normal;
+	left: 0;
+	opacity: 1;
+	padding: 3px 4px;
+	position: absolute;
+	text-align: center;
+	display: block;
+	white-space: nowrap;
+	color: #fff;
+}
+</style>
+
+<div id="ads-iframe-fixed">
+	<div class="hide-ads-iframe" onclick="hide_ads_iframe(this)">[x]</div>
+	<div class="ads-iframe-content">
+		<img src="https://bigtruyen.co/qc.jpg">
+		  <iframe src="https://bigtruyen.co/goctrai.html" width="315px" height="260px" scrolling="no" frameborder="0"></iframe>
+	</div>
+</div>
+
+
+----------------------------------------------------------------
+Bottom
+
+<style type="text/css">
+#adss-iframe-fixed {
+	bottom: 0;
+	height: auto;
+	left: 0;
+	position: fixed;
+	width: auto;
+	z-index: 99999;
+}
+#adss-iframe-fixed .adss-iframe-content img {
+	position: relative; z-index: 1;
+}
+#adss-iframe {
+	display: inline-block;
+	position: relative;
+	margin-top: 22px;
+}
+#adss-iframe .ads-iframe-content img {
+	max-width: 100%;
+	height: auto;
+	position: relative; z-index: 1;
+}
+.adss-iframe-content {
+width: 600px;
+	height: 73px;
+	bottom: 0px;
+	left: 0px;
+}
+.adss-iframe-content > iframe {
+    opacity: 0;
+    border: 0px none transparent;
+    position: absolute; z-index: 2;
+    left: 0; top: 0;
+	width: 100%;
+	height: 100%;
+    filter: alpha(opacity=0);
+}
+</style>
+
+
+
+<div id="adss-iframe">
+	<div class="adss-iframe-content" style="background-image: url(https://bigtruyen.co/ga-duoi.jpg);">
+		<iframe src="https://bigtruyen.co/goctrai.html" scrolling="no" frameborder="0"></iframe>
+	</div>
+</div>
