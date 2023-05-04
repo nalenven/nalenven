@@ -1,0 +1,38 @@
+Nén fie zip 
+
+zip -r upload uploads/
+
+giải nén fie zip vps 
+
+unzip tên fie
+
+tar -zcf NewArchive.tar.gz DirectoryName
+
+tar -xvf tên fie
+
+
+phục hồi data 
+
+
+mysql -u data -p data < backup.sql
+
+xoá fie " plesk " 
+
+/var/lib/psa/dumps
+
+Xóa Thư Mục
+
+Xóa thư muc ban dùng lenh # rm -r giong cau trúc trên đa xóa
+
+# rm -r /duongdantoifile/tenthumuc
+Nếu đã di chuyển tới thư mục cần xóa bằng lệnh CD thì dùng code
+# rm -r tenthumuc
+Xóa nhiều thư mục 1 lúc, thì mỗi thư mục cách nhau 1 dâu ' ' (dấu khoảng trắng)
+
+# rm -r thumuc1 thumuc2 thumuc3
+Xóa thư mục không cần xác nhận Y N
+# rm -rf tenthumuc
+
+
+
+
