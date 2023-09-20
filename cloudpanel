@@ -1,0 +1,9 @@
+Bước 1: Vào star windown gõ: CMD
+B2: ssh root@serverIpAddress
+B3: Yes
+B4: Nhập pass
+B5: apt update && apt -y upgrade && apt -y install curl wget sudo
+B6: curl -sS https://installer.cloudpanel.io/ce/v2/install.sh -o install.sh; \
+echo "3c30168958264ced81ca9b58dbc55b4d28585d9066b9da085f2b130ae91c50f6 install.sh" | \
+sha256sum -c && sudo CLOUD=hetzner bash install.sh
+B7: Done => Login = link vừa xong
